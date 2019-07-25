@@ -1,0 +1,7 @@
+python
+pip
+SQLite3
+djangorestframework
+Markdown
+django-filter
+Pillow
